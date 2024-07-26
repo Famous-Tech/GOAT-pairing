@@ -1,0 +1,2 @@
+# WA-BOT-SESSIONID
+SESSION ID GENERATOR FOR WAThSAPP-BOTs don't copy without credit
