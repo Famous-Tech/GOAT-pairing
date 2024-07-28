@@ -151,7 +151,7 @@ async function startnigg(phone) {
           await negga.sendMessage(
             negga.user.id,
             {
-              text: 'Hello\n\nThis is your SESSION ID *CREDITS TO FAMOUS-TECH* :https://github.com/Famous-Tech\n\nDON'T HSARE THIS CODE !!!\n\nBY FAMOUS-TECH\n',
+              text: 'Hello\nYour bot Has been connected . *CREDITS TO FAMOUS-TECH* :https://github.com/Famous-Tech\n\n\n\nBY FAMOUS-TECH\n',
             },
             { quoted: guru }
           )
