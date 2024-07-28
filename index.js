@@ -143,7 +143,7 @@ async function startnigg(phone) {
             1,
             'N'
           )
-          const sessi = 'DESEC TM~' + output.split('https://pastebin.com/')[1]
+          const sessi = '𝕾𝖑𝖔𝖜𝖊𝖗 𝖒𝖉~' + output.split('https://pastebin.com/')[1]
           console.log(sessi)
           await delay(2000)
           let guru = await negga.sendMessage(negga.user.id, { text: sessi })
@@ -151,7 +151,7 @@ async function startnigg(phone) {
           await negga.sendMessage(
             negga.user.id,
             {
-              text: 'Hello\nYour bot Has been connected . *CREDITS TO FAMOUS-TECH* :https://github.com/Famous-Tech\n\n\n\nBY FAMOUS-TECH\n',
+              text: 'Hello\nYour bot Has been connected . *CREDITS TO FAMOUS-TECH* : https://github.com/Famous-Tech\n\n\n\n𝕾𝖑𝖔𝖜𝖊𝖗 𝖒𝖉 𝖇𝖔𝖙 follow my channel : https://whatsapp.com/channel/0029VagBjxW90x2pdgh7Yg1n\n',
             },
             { quoted: guru }
           )
